@@ -273,7 +273,7 @@ MIT License - Freedom to Learn, Build, and Share
 
 ---
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgment
 
 Gratitude to:
 - ☕ The Java community for endless inspiration
